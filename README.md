@@ -18,11 +18,17 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
-
-
+```
+#Program to swap two values.
+#Developed by:Raja.R
+#RegisterNumber:22004914
+n1,n2=input(),input()
+temp=n1
+n1=n2
+n2=temp
+print("Swapped values are:",n1,n2)
+```
+## Output:
+!['output'](/Screenshot%20from%202022-12-27%2021-16-44.png))
 ## RESULT:
 Thus the swapping of two values are successfully executed
-
-
-
